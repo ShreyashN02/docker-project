@@ -111,10 +111,4 @@ docker ps -a
 
 # Remove all containers
 docker compose down
-```
 
----
-
-## 🙌 Credits
-
-Based on [Docker In One Shot](https://gist.github.com/piyushgarg-dev/ea8c5aa52de0496753b88cd938abd728) by [@piyushgarg-dev](https://github.com/piyushgarg-dev)
